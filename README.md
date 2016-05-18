@@ -2,13 +2,13 @@
 
 People approach data science from various angles. Mine was: a major in Sociology, previous exposure to basic statistics and a lot of hobby programming, working with Unix-like systems etc.
 
-Given my background, I list a number of sources which were the most helpful from my point of view. This list does not contain everything that I have ever read on the subject, *only the beginner-friendly stuff*.
+Given my background, I list a number of sources which were the most helpful from my point of view. This list does not contain everything that I have ever read on the subject, **only the beginner-friendly stuff**.
 
-Due to the data science hype, the Web is full of _become a data scientist over a weekend_ materials. This site promises something else: you'll provided with studying materials for years to come.
+Due to the data science hype, the Web is full of _become a data scientist over a weekend_ materials. This site promises something else: you'll be provided with studying materials for years to come.
 
 ## Mathematics
 
-We start with mathematics, although some of the materials listed later on don't assume much of mathematical flucency. Feel free to move to the more fancy materials and revisit the basics as needed.
+We start with mathematics, although some of the materials listed later on don't assume much of mathematical flucency. Feel free to move to the more fancy materials and revisit the basics as needed. For instance, you could start with [Andrew Ng's excellent _Machine learning_ course](https://www.coursera.org/learn/machine-learning/) to develop basic mathematical intuitions, and then return to the materials listed here to solidify your understanding.
 
 ### Calculus
 
@@ -19,7 +19,14 @@ We start with mathematics, although some of the materials listed later on don't 
 
 * [_WildLinAlg: A geometric course in Linear Algebra_](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1) by Norman J. Wildberger
 
+### Statistics
+
+
 ## Data analysis
+
+### Data wrangling
+
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) by Wes McKinney
 
 ### Data mining
 
