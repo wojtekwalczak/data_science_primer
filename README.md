@@ -2,13 +2,13 @@
 
 People approach data science from various angles. Mine was: a major in Sociology, previous exposure to basic statistics and a lot of hobby programming, working with Unix-like systems etc.
 
-Given my background, I list a number of sources which were the most helpful from my point of view. This list does not contain everything that I have ever read on the subject, **only the beginner-friendly stuff**.
+Still, after more than a year of intensive study, I managed to get an industry job. Here I list a number of sources which were the most helpful in my professional conversion. This list does not contain everything that I have ever read on the subject, **only the beginner-friendly stuff**.
 
 Due to the data science hype, the Web is full of _become a data scientist over a weekend_ materials. This site promises something else: you'll be provided with studying materials for years to come.
 
 ## Mathematics
 
-We start with mathematics, although some of the materials listed later on don't assume much of mathematical flucency. Feel free to move to the more fancy materials and revisit the basics as needed. For instance, you could start with [Andrew Ng's excellent _Machine learning_ course](https://www.coursera.org/learn/machine-learning/) to develop basic mathematical intuitions, and then return to the materials listed here to solidify your understanding.
+We start with mathematics, although some of the materials listed later on don't assume much of mathematical flucency. Feel free to move to the more fancy stuff and revisit the basics as needed. For instance, you could start with [Andrew Ng's excellent _Machine learning_ course](https://www.coursera.org/learn/machine-learning/) to develop basic mathematical intuitions, and then return to the materials listed here to solidify your understanding.
 
 ### Calculus
 
@@ -37,9 +37,12 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Neural networks
 
-* [_Neural networks and deep learning_](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
-* [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) by Andrej Karpathy
+* [book](http://neuralnetworksanddeeplearning.com/) _Neural networks and deep learning_ by Michael Nielsen
+* [on-line materials](http://cs231n.github.io/) _CS231n Convolutional Neural Networks for Visual Recognition_ by Andrej Karpathy
 
+### Massive data analysis
+
+* [book](http://www.mmds.org/) [coursera](https://www.coursera.org/course/mmds) _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman
 
 ## Databases
 
