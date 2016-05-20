@@ -40,9 +40,12 @@ We start with mathematics, although some of the materials listed later on don't 
 * [book](http://neuralnetworksanddeeplearning.com/) _Neural networks and deep learning_ by Michael Nielsen
 * [on-line materials](http://cs231n.github.io/) _CS231n Convolutional Neural Networks for Visual Recognition_ by Andrej Karpathy
 
-### Massive data analysis
+### Big data
 
+* [coursera](https://www.coursera.org/course/datasci) _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions
 * [book](http://www.mmds.org/) [coursera](https://www.coursera.org/course/mmds) _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman
+
+
 
 ## Databases
 
