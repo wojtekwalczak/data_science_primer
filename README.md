@@ -17,7 +17,7 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Linear algebra
 
-* [_WildLinAlg: A geometric course in Linear Algebra_](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1) by Norman J. Wildberger
+* \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] _WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger
 
 ### Statistics
 
@@ -26,24 +26,24 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Data wrangling
 
-* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do) by Wes McKinney
+* \[[book](http://shop.oreilly.com/product/0636920023784.do)\] _Python for Data Analysis_ by Wes McKinney
 
 ### Data mining
 
 ### Machine learning
 
-* [_Machine learning_](https://www.coursera.org/learn/machine-learning/) by Andrew Ng
+* \[[coursera](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
 ### Neural networks
 
-* [book](http://neuralnetworksanddeeplearning.com/) _Neural networks and deep learning_ by Michael Nielsen
-* [on-line materials](http://cs231n.github.io/) _CS231n Convolutional Neural Networks for Visual Recognition_ by Andrej Karpathy
+* \[[book](http://neuralnetworksanddeeplearning.com/)\] _Neural networks and deep learning_ by Michael Nielsen
+* \[[on-line materials](http://cs231n.github.io/)\] _CS231n Convolutional Neural Networks for Visual Recognition_ by Andrej Karpathy
 
 ### Big data
 
-* [coursera](https://www.coursera.org/course/datasci) _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions
-* [book](http://www.mmds.org/) [coursera](https://www.coursera.org/course/mmds) _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman
+* \[[coursera](https://www.coursera.org/course/datasci)\] _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions
+* \[[book](http://www.mmds.org/)\] \[[coursera](https://www.coursera.org/course/mmds)\] _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman
 
 
 
