@@ -2,7 +2,7 @@
 
 People approach data science from various angles. Mine was: a major in Sociology, previous exposure to basic statistics and a lot of hobby programming, working with Unix-like systems etc.
 
-Still, after more than a year of intensive study, I managed to get an industry job. Here I list a number of sources which were the most helpful in my professional conversion. This list does not contain everything that I have ever read on the subject, **only the beginner-friendly stuff**.
+Still, having no real technical background, I managed to get an industry job after more than a year of intensive study. Here I list a number of sources which were the most helpful in my professional conversion. This list does not contain everything that I have ever read on the subject, **only the beginner-friendly stuff**.
 
 Due to the data science hype, the Web is full of _become a data scientist over a weekend_ materials. This site promises something else: you'll be provided with studying materials for years to come.
 
@@ -12,8 +12,8 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Calculus
 
-* _Pre-calculus Demystified_ by Rhonda Huettenmueller
-* _Calculus: Early Transcendentals_ by James Stewart
+* \[[book](http://www.amazon.com/Pre-calculus-Demystified-Second-Rhonda-Huettenmueller/dp/0071778497)\] _Pre-calculus Demystified_ by Rhonda Huettenmueller - the book offers a concise refresher with enough exercies (with answers!) to get you back on track with high-school-level math.
+* \[[book](http://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/0495011665)\] _Calculus: Early Transcendentals_ by James Stewart - James Steward became a millionaire by writing calculus books, and there's a good reason for that.
 
 ### Linear algebra
 
@@ -33,7 +33,7 @@ We start with mathematics, although some of the materials listed later on don't 
 ### Machine learning
 
 * \[[coursera](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng
-* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+* \[[book](http://www-bcf.usc.edu/~gareth/ISL/)\] _An Introduction to Statistical Learning_ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
 ### Neural networks
 
