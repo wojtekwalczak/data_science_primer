@@ -32,7 +32,7 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Machine learning
 
-* \[[coursera](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng
+* \[[mooc](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng
 * \[[book](http://www-bcf.usc.edu/~gareth/ISL/)\] _An Introduction to Statistical Learning_ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
 ### Neural networks
@@ -42,21 +42,21 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Big data
 
-* \[[coursera](https://www.coursera.org/course/datasci)\] _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions
-* \[[book](http://www.mmds.org/)\] \[[coursera](https://www.coursera.org/course/mmds)\] _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman
+* \[[mooc](https://www.coursera.org/course/datasci)\] _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions
+* \[[book](http://www.mmds.org/)\] \[[mooc](https://www.coursera.org/course/mmds)\] _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman
 
 
 
 ## Databases
 
-* [M101P: MongoDB for Developers](https://university.mongodb.com/courses/M101P/about)
+* \[[mooc](https://university.mongodb.com/courses/M101P/about)\] _M101P: MongoDB for Developers_ by Andrew Erlichson
 
 
 ## Programming
 
 ### Algorithms
 
-* [_Algorithms_](http://algs4.cs.princeton.edu/home/) by Robert Sedgewick and Kevin Wayne
+* \[[book](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)\] \[[online version](http://algs4.cs.princeton.edu/home/)\] by Robert Sedgewick and Kevin Wayne
 
 ### Java
 
