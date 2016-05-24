@@ -12,6 +12,7 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Calculus
 
+* \[[mooc](https://www.coursera.org/learn/calculus1)\] _Calculus One_ by Jim Fowler
 * \[[book](http://www.amazon.com/Pre-calculus-Demystified-Second-Rhonda-Huettenmueller/dp/0071778497)\] _Pre-calculus Demystified_ by Rhonda Huettenmueller - the book offers a concise refresher with enough exercies (with answers!) to get you back on track with high-school-level math.
 * \[[book](http://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/0495011665)\] _Calculus: Early Transcendentals_ by James Stewart - James Steward became a millionaire by writing calculus books, and there's a good reason for that.
 
@@ -20,6 +21,16 @@ We start with mathematics, although some of the materials listed later on don't 
 * \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] _WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger
 
 ### Statistics
+
+
+## Model thinking
+
+These are the really fundamental things.
+
+* \[[mooc](https://www.coursera.org/learn/model-thinking/home/welcome)\] _Model thinking_ by Scott Page
+* \[[book](http://www.amazon.com/Modeling-Reality-Computers-Mirror-CD-ROM/dp/0198531001)]\] \[[homepage](http://www.modelingreality.net/)\] Modeling Reality: How Computers Mirror Life by Iwo Białynicki-Birula and Iwona Białynicka-Birula
+
+
 
 
 ## Data analysis
