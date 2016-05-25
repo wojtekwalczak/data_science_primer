@@ -25,7 +25,7 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ## Model thinking
 
-These are the really fundamental things.
+In the data science trend there's too much focus on data and not enough on science. Make sure that you're fluent with the building blocks of science, namely: models. The sources below provide a really gentle introduction into these little creatures.
 
 * \[[mooc](https://www.coursera.org/learn/model-thinking/home/welcome)\] _Model thinking_ by Scott Page
 * \[[book](http://www.amazon.com/Modeling-Reality-Computers-Mirror-CD-ROM/dp/0198531001)]\] \[[homepage](http://www.modelingreality.net/)\] Modeling Reality: How Computers Mirror Life by Iwo Białynicki-Birula and Iwona Białynicka-Birula
