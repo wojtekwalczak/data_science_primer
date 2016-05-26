@@ -28,7 +28,7 @@ We start with mathematics, although some of the materials listed later on don't 
 In the data science trend there's too much focus on data and not enough on science. Make sure that you're fluent with the building blocks of science, namely: models. The sources below provide a really gentle introduction into these little creatures.
 
 * \[[mooc](https://www.coursera.org/learn/model-thinking/home/welcome)\] _Model thinking_ by Scott Page
-* \[[book](http://www.amazon.com/Modeling-Reality-Computers-Mirror-CD-ROM/dp/0198531001)]\] \[[homepage](http://www.modelingreality.net/)\] Modeling Reality: How Computers Mirror Life by Iwo Białynicki-Birula and Iwona Białynicka-Birula
+* \[[book](http://www.amazon.com/Modeling-Reality-Computers-Mirror-CD-ROM/dp/0198531001)\] \[[homepage](http://www.modelingreality.net/)\] Modeling Reality: How Computers Mirror Life by Iwo Białynicki-Birula and Iwona Białynicka-Birula
 
 
 
@@ -65,9 +65,14 @@ In the data science trend there's too much focus on data and not enough on scien
 
 ## Programming
 
+Given my prior experience in programming (almost 15 years of hobby coding) I am not the best source of recommendations for beginners in this area. If you're starting with programming you should go somewhere else for advice. However, if your aim is to advance from amateur programmer (which often applies to data scientists) to a professional, these links will help you. 
+
 ### Algorithms
 
 * \[[book](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)\] \[[online version](http://algs4.cs.princeton.edu/home/)\] by Robert Sedgewick and Kevin Wayne
+
+### Software engineering
+
 
 ### Java
 
