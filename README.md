@@ -73,11 +73,15 @@ Given my prior experience in programming (almost 15 years of hobby coding) I am 
 
 ### Software engineering
 
+* \[[book](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)\] \[[homepage](http://cc2e.com/)\] Code complete by Steve McConnell
 
 ### Java
 
+* \[[book](http://www.amazon.com/Core-Java-I-Fundamentals-9th/dp/0137081898)\] \[[homepage](http://horstmann.com/corejava.html)\] _Core Java_ by Cay S. Horstman and Gary Cornell
 
 ### Python
 
+### Essential tools
 
+* \[[tutorial](https://git-scm.com/book/en/v2)\] _git_ - you just can't afford not to know git. Even if you're working alone, you iterate, you go back and forth and git is there to remember your steps. Just remember to commit often. Also, take some time and learn how to rebase (including interactive rebase). This job is usually messy, and there's no reason to remember all the dirt once you arrive at the solution.  
 
