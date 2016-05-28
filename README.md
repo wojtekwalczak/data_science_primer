@@ -41,6 +41,8 @@ In the data science trend there's too much focus on data and not enough on scien
 
 ### Data mining
 
+* \[[book](http://www.amazon.com/Discovering-Knowledge-Data-Introduction-Mining/dp/0471666572)\] _Discovering Knowledge in Data: An Introduction to Data Mining_ by Daniel T. Larose - the book offers a gentle introduction to the process of data mining and explains some basic algorithms in a very accessible way.
+
 ### Machine learning
 
 * \[[mooc](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng
