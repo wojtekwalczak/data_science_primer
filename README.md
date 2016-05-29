@@ -45,7 +45,7 @@ In the data science trend there's too much focus on data and not enough on scien
 
 ### Machine learning
 
-* \[[mooc](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng
+* \[[mooc](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng - this is one of the best places to start your adventure with machine learning. Andrew Ng is brilliant in sharing mathematical intuitions behind the most important algorithms. From time to time I find myself re-viewing particular videos of Ng's course and I keep beeing amazed by how capable educator Andrew Ng is. 
 * \[[book](http://www-bcf.usc.edu/~gareth/ISL/)\] _An Introduction to Statistical Learning_ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
 ### Neural networks
@@ -76,6 +76,7 @@ Given my prior experience in programming (almost 15 years of hobby coding) I am 
 ### Software engineering
 
 * \[[book](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)\] \[[homepage](http://cc2e.com/)\] Code complete by Steve McConnell
+* \[[book](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)\] - _Refactoring: Improving the Design of Existing Code_ by Martin Fowler, Kent Beck, John Brant, William Opdyke, and Don Roberts
 
 ### Java
 
