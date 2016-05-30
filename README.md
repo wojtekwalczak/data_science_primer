@@ -12,9 +12,9 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Calculus
 
-* \[[mooc](https://www.coursera.org/learn/calculus1)\] _Calculus One_ by Jim Fowler
 * \[[book](http://www.amazon.com/Pre-calculus-Demystified-Second-Rhonda-Huettenmueller/dp/0071778497)\] _Pre-calculus Demystified_ by Rhonda Huettenmueller - the book offers a concise refresher with enough exercies (with answers!) to get you back on track with high-school-level math.
-* \[[book](http://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/0495011665)\] _Calculus: Early Transcendentals_ by James Stewart - James Steward became a millionaire by writing calculus books, and there's a good reason for that.
+* \[[mooc](https://www.coursera.org/learn/calculus1)\] _Calculus One_ by Jim Fowler - a man of passion for calculus, Jim Fowler will guide you through 16-week long calculus course. Together with James Stewart's book mentioned below, this will give you a solid understanding of the topic.
+* \[[book](http://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/0495011665)\] _Calculus: Early Transcendentals_ by James Stewart - James Steward became a millionaire by writing calculus books, and there's a good reason for that. 
 
 ### Linear algebra
 
