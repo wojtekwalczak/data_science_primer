@@ -51,7 +51,7 @@ In the data science trend there's too much focus on data and not enough on scien
 
 ### Neural networks
 
-* \[[book](http://neuralnetworksanddeeplearning.com/)\] _Neural networks and deep learning_ by Michael Nielsen
+* \[[book](http://neuralnetworksanddeeplearning.com/)\] _Neural networks and deep learning_ by Michael Nielsen - many authors stop explaining things exactly when questions pop up in my head. Michael Nielsen is not one of them, and that's why I have the most utter respect for him. He anticipates questions and doubts of the reader and rushes with explanations. This is the trait of the greatest educators. To really profit from reading this book you'll need some calculus and linear algebra (especially if you wish to solve the exercises and problems posed), but the prose itself is welcoming for newcomers. You might have noticed that there's a lot of books in paper form on my list. I prefer to read books in paper form since it's less tiring for my eyes, and I regret that Michael Nielsen's book is not available as a proper book. Still, it's definitely worth the effort, and the fatigue of the eyes.
 * \[[on-line materials](http://cs231n.github.io/)\] _CS231n Convolutional Neural Networks for Visual Recognition_ by Andrej Karpathy
 
 ### Big data
