@@ -29,7 +29,7 @@ We start with mathematics, although some of the materials listed later on don't 
 In the data science trend there's too much focus on data and not enough on science. Make sure that you're fluent with the building blocks of science, namely: models. The sources below provide a really gentle introduction into these little creatures.
 
 * \[[mooc](https://www.coursera.org/learn/model-thinking/home/welcome)\] _Model thinking_ by Scott Page - a really gentle, but broad introduction to various types of models. This course is not specifically targeted at data scientists, but still it builds important intuitions. After all, data scientist often model behavior of individuals. Thus, I find this course an important addition to the following curriculum.
-* \[[book](http://www.amazon.com/Modeling-Reality-Computers-Mirror-CD-ROM/dp/0198531001)\] \[[homepage](http://www.modelingreality.net/)\] _Modeling Reality: How Computers Mirror Life_ by Iwo Białynicki-Birula and Iwona Białynicka-Birula
+* \[[book](http://www.amazon.com/Modeling-Reality-Computers-Mirror-CD-ROM/dp/0198531001)\] \[[homepage](http://www.modelingreality.net/)\] _Modeling Reality: How Computers Mirror Life_ by Iwo Białynicki-Birula and Iwona Białynicka-Birula - this nice little book explains various models (from cellular automata, neural networks and genetic algorithms) through games, examples and computer programs. No expert knowledge or university-level math is required, yet the Authors convey this invaluable feel for models and their computability.
 
 
 
