@@ -47,7 +47,7 @@ In the data science trend there's too much focus on data and not enough on scien
 ### Machine learning
 
 * \[[mooc](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng - this is one of the best places to start your adventure with machine learning. Andrew Ng is brilliant in sharing mathematical intuitions behind the most important algorithms. From time to time I find myself re-viewing particular videos of Ng's course and I keep beeing amazed by how capable educator Andrew Ng is. 
-* \[[book](http://www-bcf.usc.edu/~gareth/ISL/)\] _An Introduction to Statistical Learning_ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+* \[[book](http://www-bcf.usc.edu/~gareth/ISL/)\] _An Introduction to Statistical Learning_ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani - this book proves that the basic concepts of machine learning can be introduced without throwing all these calculus and linear algebra equations at first-timers. The authors (real titans are among them) did a big favor to their discipline by publishing this book.
 
 ### Neural networks
 
