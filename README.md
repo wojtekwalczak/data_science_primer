@@ -6,6 +6,20 @@ Still, having no real technical background, I managed to get an industry job aft
 
 Due to the data science hype, the Web is full of _become a data scientist over a weekend_ materials. This site promises something else: you'll be provided with studying materials for years to come.
 
+As an aspiring data scientist you may think of yourself in terms of this definition:
+
+> Data Scientist (n.): Person who is better at statistics
+> than any software engineer and better at software engineering
+> than any statistician.
+
+But this definition can easily be rephrased (as William Cukierski pointed out):
+
+> Data Scientist (n.): Person who is worse at statistics
+> than any statistician and worse at software engineering
+> than any software engineer.
+
+Keep that in mind.
+
 ## Mathematics
 
 We start with mathematics, although some of the materials listed later on don't assume much of mathematical flucency. Feel free to move to the more fancy stuff and revisit the basics as needed. For instance, you could start with [Andrew Ng's excellent _Machine learning_ course](https://www.coursera.org/learn/machine-learning/) to develop basic mathematical intuitions, and then return to the materials listed here to solidify your understanding.
