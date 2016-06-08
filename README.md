@@ -32,7 +32,8 @@ We start with mathematics, although some of the materials listed later on don't 
 
 ### Linear algebra
 
-* \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] _WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger - I really appreciate the strong geometric focus in Norman Wildberger's lectures. It really helps in grasping the concepts. I would love to say that these lectures are well accompanied by some linear algebra book, but most of the books that I have read on the topic were rather unfriendly for begginers. _WildLinAlg_ will give you about 30 hours of listening materials + exercises though, so it's not that bad anyway.
+* \[[book](http://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441)\] _Linear Algebra: Step by Step_ by Kuldeep Singh
+* \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] _WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger - I really appreciate the strong geometric focus in Norman Wildberger's lectures. It really helps in grasping the concepts.
 
 ### Statistics
 
