@@ -10,18 +10,18 @@ Due to the data science hype, the Web is full of _become a data scientist over a
 
 We start with mathematics, although some of the materials listed later on don't assume much of mathematical flucency. Feel free to move to the more fancy stuff and revisit the basics as needed. For instance, you could start with [Andrew Ng's excellent _Machine learning_ course](https://www.coursera.org/learn/machine-learning/) to develop basic mathematical intuitions, and then return to the materials listed here to solidify your understanding.
 
-### Calculus
+#### Calculus
 
 * \[[book](http://www.amazon.com/Pre-calculus-Demystified-Second-Rhonda-Huettenmueller/dp/0071778497)\] _Pre-calculus Demystified_ by Rhonda Huettenmueller - the book offers a concise refresher with enough exercies (with answers!) to get you back on track with high-school-level math.
 * \[[mooc](https://www.coursera.org/learn/calculus1)\] _Calculus One_ by Jim Fowler - a man of passion for calculus, Jim Fowler will guide you through 16-week long calculus course. Together with James Stewart's book mentioned below, this will give you a solid understanding of the topic.
 * \[[book](http://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/0495011665)\] _Calculus: Early Transcendentals_ by James Stewart - James Steward became a millionaire by writing calculus books, and there's a good reason for that. 
 
-### Linear algebra
+#### Linear algebra
 
 * \[[book](http://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441)\] _Linear Algebra: Step by Step_ by Kuldeep Singh
 * \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] _WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger - I really appreciate the strong geometric focus in Norman Wildberger's lectures. It really helps in grasping the concepts.
 
-### Statistics
+#### Statistics
 
 
 
@@ -37,25 +37,25 @@ In the data science trend there's too much focus on data and not enough on scien
 
 ## Data analysis
 
-### Data wrangling
+#### Data wrangling
 
 * \[[book](http://shop.oreilly.com/product/0636920023784.do)\] _Python for Data Analysis_ by Wes McKinney - pandas is one of the key tools for efficient data analysis in Python. There are literally tons of pandas tutorials on the Web, but still it's good to read through the book created by the author of the package.
 
-### Data mining
+#### Data mining
 
 * \[[book](http://www.amazon.com/Discovering-Knowledge-Data-Introduction-Mining/dp/0471666572)\] _Discovering Knowledge in Data: An Introduction to Data Mining_ by Daniel T. Larose - the book offers a gentle introduction to the process of data mining and explains some basic algorithms in a very accessible way.
 
-### Machine learning
+#### Machine learning
 
 * \[[mooc](https://www.coursera.org/learn/machine-learning/)\] _Machine learning_ by Andrew Ng - this is one of the best places to start your adventure with machine learning. Andrew Ng is brilliant in sharing mathematical intuitions behind the most important algorithms. From time to time I find myself re-viewing particular videos of Ng's course and I keep beeing amazed by how capable educator Andrew Ng is. 
 * \[[book](http://www-bcf.usc.edu/~gareth/ISL/)\] _An Introduction to Statistical Learning_ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani - this book proves that the basic concepts of machine learning can be introduced without throwing all these calculus and linear algebra equations at first-timers. The authors (real titans are among them) did a big favor to their discipline by publishing this book.
 
-### Neural networks
+#### Neural networks
 
 * \[[book](http://neuralnetworksanddeeplearning.com/)\] _Neural networks and deep learning_ by Michael Nielsen - many authors stop explaining things exactly when questions pop up in my head. Michael Nielsen is not one of them, and that's why I have the most utter respect for him. He anticipates questions and doubts of the reader and rushes with explanations. This is the trait of the greatest educators. To really profit from reading this book you'll need some calculus and linear algebra (especially if you wish to solve the exercises and problems posed), but the prose itself is welcoming for newcomers. You might have noticed that there's a lot of books in paper form on my list. I prefer to read books in paper form since it's less tiring for my eyes, and I regret that Michael Nielsen's book is not available as a proper book. Still, it's definitely worth the effort, and the fatigue of the eyes.
 * \[[on-line materials](http://cs231n.github.io/)\] _CS231n Convolutional Neural Networks for Visual Recognition_ by Andrej Karpathy - the notes accompanying the Stanford CS class are not far away from becoming a book, and it would be a good book. At the beginning, through simple code snippets in Python Andrej Karpathy compares the neural networks to other machine learning algorithms. Then he dives deep into the neural networks keeping a strong practical approach along the way.
 
-### Big data
+#### Big data
 
 * \[[mooc](https://www.coursera.org/course/datasci)\] _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions
 * \[[book](http://www.mmds.org/)\] \[[mooc](https://www.coursera.org/course/mmds)\] _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman
@@ -64,6 +64,9 @@ In the data science trend there's too much focus on data and not enough on scien
 
 ## Databases
 
+#### SQL
+
+#### NoSQL
 * \[[mooc](https://university.mongodb.com/courses/M101P/about)\] _M101P: MongoDB for Developers_ by Andrew Erlichson
 
 
@@ -71,30 +74,30 @@ In the data science trend there's too much focus on data and not enough on scien
 
 Given my prior experience in programming (almost 15 years of hobby coding) I am not the best source of recommendations for beginners in this area. If you're starting with programming you should go somewhere else for advice. However, if your aim is to advance from amateur programmer (which often applies to data scientists) to a professional, these links will help you. 
 
-### Algorithms
+#### Algorithms
 
 * \[[book](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)\] \[[online version](http://algs4.cs.princeton.edu/home/)\] by Robert Sedgewick and Kevin Wayne
 
-### Software engineering
+#### Software engineering
 
 * \[[book](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)\] \[[homepage](http://cc2e.com/)\] Code complete by Steve McConnell
 * \[[book](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)\] - _Refactoring: Improving the Design of Existing Code_ by Martin Fowler, Kent Beck, John Brant, William Opdyke, and Don Roberts
 
-### Java
+#### Java
 
 * \[[book](http://www.amazon.com/Core-Java-I-Fundamentals-9th/dp/0137081898)\] \[[homepage](http://horstmann.com/corejava.html)\] _Core Java_ by Cay S. Horstman and Gary Cornell
 
-### Python
+#### Python
 
-### Essential tools
+## Essential tools
 
 Enough theory. You'll need some tools to apply all that knowledge. I am rather a Python + Java person, so you may need some other resources to start with such tools as R.
 
-## Code management
-	* \[[tutorial](https://git-scm.com/book/en/v2)\] _git_ - you just can't afford not to know git. Even if you're working alone, you iterate, you go back and forth and git is there to remember your steps. Just remember to commit often. Also, take some time and learn how to rebase (including interactive rebase). This job is usually messy, and there's no reason to remember all the dirt once you arrive at the solution. Git, obviously, is even more important if you're collaborating with others. I ensure you, you don't want to be that person who repeatedly breaks the repository due to insufficient command of git.  
+#### Code management
+* \[[tutorial](https://git-scm.com/book/en/v2)\] _git_ - you just can't afford not to know git. Even if you're working alone, you iterate, you go back and forth and git is there to remember your steps. Just remember to commit often. Also, take some time and learn how to rebase (including interactive rebase). This job is usually messy, and there's no reason to remember all the dirt once you arrive at the solution. Git, obviously, is even more important if you're collaborating with others. I ensure you, you don't want to be that person who repeatedly breaks the repository due to insufficient command of git.  
 
-## Data wrangling
+#### Data wrangling
 
-## Machine learning
+#### Machine learning
 
-## Deep learning
+#### Deep learning
