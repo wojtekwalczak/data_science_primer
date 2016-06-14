@@ -76,7 +76,7 @@ Given my prior experience in programming (almost 15 years of hobby coding) I am 
 
 #### Algorithms
 
-* \[[book](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)\] \[[online version](http://algs4.cs.princeton.edu/home/)\] by Robert Sedgewick and Kevin Wayne
+* \[[book](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X)\] \[[online version](http://algs4.cs.princeton.edu/home/)\] by Robert Sedgewick and Kevin Wayne - you can get really far without thorough understanding of the algorithimcs. A search engine and a bit of intuition suffices most of the time. But once you get to the point where it's not enough, you'll want to have Sedgewick's and Wayne's book by your side. Sorting, searching, graphs and strings - these four classes of algorithms are thoroughly explained and well illustrated. The book makes for a lovely experience both in terms of contents and aesthetics.
 
 #### Software engineering
 
