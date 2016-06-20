@@ -18,8 +18,8 @@ We start with mathematics, although some of the materials listed later on don't 
 
 #### Linear algebra
 
-* \[[book](http://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441)\] _Linear Algebra: Step by Step_ by Kuldeep Singh
-* \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] _WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger - I really appreciate the strong geometric focus in Norman Wildberger's lectures. It really helps in grasping the concepts.
+* \[[book](http://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441)\] _Linear Algebra: Step by Step_ by Kuldeep Singh - There are tons of linear algebra books out there but most of them aren't really helpful for people without technical background. Kuldeep Singh's book is light enough to get you started, although I strongly advice reading it along with Norman Wildberger's lectures listed below. These two sources will give enough linear algebra skills, unless your aim is to invent some ground breaking calculations.
+* \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] _WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger - I really appreciate the strong geometric focus in Norman Wildberger's lectures. It really helps in grasping the concepts. Also, you should be informed that Norman Wildberger's aim isn't to offer you yet another classical linear algebra course. There's a lot of personal touch in these materials. And I doubt that's a flaw.
 
 #### Statistics
 
