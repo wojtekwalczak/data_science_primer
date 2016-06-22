@@ -58,7 +58,7 @@ In the data science trend there's too much focus on data and not enough on scien
 
 #### Big data
 
-* \[[mooc](https://www.coursera.org/course/datasci)\] _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions
+* \[[mooc](https://www.coursera.org/course/datasci)\] _Introduction to Data Science_ by Bill Howe - a nice intro with a well balanced approach to SQL versus NoSQL solutions. Although the course has it's statistical analysis and machine learning parts, I think it's mostly worth watching for databases-related videos.
 * \[[book](http://www.mmds.org/)\] \[[mooc](https://www.coursera.org/course/mmds)\] _Mining of Massive Datasets_ by Jure Leskovec, Anand Rajaraman, Jeff Ullman - sooner or later you're going to discover problems too big to solve with most traditional approaches. The authors show a wide range of problems where size can get out of control: finding similar items, working with data streams and graphs and many more. I loved the Coursera course, but I found the book a bit too dry. Many of these problems can be well-illustrated but the book lags in terms of visual layer. Still, it is a great resource written in rather accessible manner. It could have been more entertaining, though.
 
 
