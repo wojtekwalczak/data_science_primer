@@ -14,7 +14,7 @@ We start with mathematics, although some of the materials listed later on don't 
 
 * \[[book](http://www.amazon.com/Pre-calculus-Demystified-Second-Rhonda-Huettenmueller/dp/0071778497)\] _Pre-calculus Demystified_ by Rhonda Huettenmueller - the book offers a concise refresher with enough exercies (with answers!) to get you back on track with high-school-level math.
 * \[[mooc](https://www.coursera.org/learn/calculus1)\] _Calculus One_ by Jim Fowler - a man of passion for calculus, Jim Fowler will guide you through 16-week long calculus course. Together with James Stewart's book mentioned below, this will give you a solid understanding of the topic.
-* \[[book](http://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/0495011665)\] _Calculus: Early Transcendentals_ by James Stewart - James Steward became a millionaire by writing calculus books, and there's a good reason for that. 
+* \[[book](http://www.amazon.com/Calculus-Early-Transcendentals-James-Stewart/dp/0495011665)\] _Calculus: Early Transcendentals_ by James Stewart - James Steward became a millionaire by writing calculus books, and there's a good reason for that. This is due to tons of examples and exercises (some briefly explained at the end of the book, the rest [available online](http://resources.rogue.ninja/pdf/Stewart-7E-solutions.pdf)), lots of pictures, tables and charts. Once you're in machine learning field, you don't need to be convinced of the applicability of calculus, but this book brings many engineering applications of calculus and thus builds the appreciation of the topic. The deeper into the text, the more consise the examples (it is assumed that some calculations introduced earlier don't need to be explained in every example that follows), so more effort is expected. In my love-hate relationship with math, there was always more hate than love, but it changed a lot lately, and one of the reasons is the Stewart's book.
 
 #### Linear algebra
 
@@ -95,7 +95,7 @@ Enough theory. You'll need some tools to apply all that knowledge. I am rather a
 
 #### Code management and deployment
 * \[[tutorial](https://git-scm.com/book/en/v2)\] _git_ - you just can't afford not to know git. Even if you're working alone, you iterate, you go back and forth and git is there to remember your steps. Just remember to commit often. Also, take some time and learn how to rebase (including interactive rebase). This job is usually messy, and there's no reason to remember all the dirt once you arrive at the solution. Git, obviously, is even more important if you're collaborating with others. I ensure you, you don't want to be that person who repeatedly breaks the repository due to insufficient command of git.  
-* \[[homepage](https://www.docker.com/) _docker_ - at some point in time you will want to share your models with someone else and it won't work on other machines due to dependencies and some unspecified traits of your environment. You can make your (and others) life easier by using containerization, that is: creating a well defined, easily reproducible environment for your software.
+* \[[homepage](https://www.docker.com/)\] _docker_ - at some point in time you will want to share your models with someone else and it won't work on other machines due to dependencies and some unspecified traits of your environment. You can make your (and others) life easier by using containerization, that is: creating a well defined, easily reproducible environment for your software.
 
 #### Data wrangling
 
