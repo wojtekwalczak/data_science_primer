@@ -85,6 +85,8 @@ Given my prior experience in programming (almost 15 years of hobby coding) I am 
 
 * \[[book](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)\] \[[homepage](http://cc2e.com/)\] **_Code complete_ by Steve McConnell** - Apart from a number of debatable points, this book consists of hundreds of obvious remarks. One just can’t read this book for too long, since it’s hard to stand this throng of banalities. But, as experience shows, most of the programmers either are not familiar with basics of software engineering or are having hard time exercising good practices in everyday coding. That’s why this book is important and it’s worth the effort.
 * \[[book](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)\] - **_Refactoring: Improving the Design of Existing Code_ by Martin Fowler, Kent Beck, John Brant, William Opdyke, and Don Roberts** - you're going to hit the wall of unreadable code time and time again (your code included). Once you start tracking newest publications and seeking for the original implementations, you'll be suprised how terrible code can be hidden behind a brilliant publication. You need to recognize the bads quickly and be able to respond with a proper refactoring strategy.
+* \[[book](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)\] - **_Clean code: A Handbook of Agile Software Craftsmanship_ by Robert Martin**
+
 
 #### Java
 
