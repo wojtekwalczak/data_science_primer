@@ -23,6 +23,7 @@ We start with mathematics, although some of the materials listed later on don't 
 
 #### Statistics
 
+* \[[book](http://shop.oreilly.com/product/0636920023074.do)\] **_Statistics in a Nutshell_ by Sarah Boslaugh**
 * \[[book](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728)\] **_Statistics_ by David Freedman, Robert Pisani and Roger Purves**
 
 
