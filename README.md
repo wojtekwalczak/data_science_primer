@@ -71,7 +71,7 @@ In the data science trend there's too much focus on data and not enough on scien
 
 #### SQL
 
-* \[[online documentation](https://www.postgresql.org/docs/9.6/static/index.html) **PostgreSQL Documentation** - PostgreSQL comes with tons of great documentation, certainly enough to be able to use this database like a pro.
+* \[[online documentation](https://www.postgresql.org/docs/9.6/static/index.html)\] **PostgreSQL Documentation** - PostgreSQL comes with tons of great documentation, certainly enough to be able to use this database like a pro.
 
 #### NoSQL
 * \[[mooc](https://university.mongodb.com/courses/M101P/about)\] **_M101P: MongoDB for Developers_ by Andrew Erlichson**
