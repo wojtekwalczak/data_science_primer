@@ -110,6 +110,9 @@ Enough theory. You'll need some tools to apply all that knowledge. I am rather a
 
 #### Machine learning
 
+* \[[homepage](https://scikit-learn.org)\] **_scikit-learn_** - one of the best machine learning suites for Python. Do yourself a favor and make sure that you do unserstand how [pipelines](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) in scikit-learn work.
+
+
 #### Deep learning
 
 ## Alternatives to this document
