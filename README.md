@@ -115,6 +115,9 @@ Enough theory. You'll need some tools to apply all that knowledge. I am rather a
 
 #### Deep learning
 
+* \[[homepage](https://http://keras.io/) **_keras_** - a (very) high-level library for building the deep learning models. Under the hood Keras uses Theano or Tensorflow as its engine. It won't let you build your own innovative neural network algorithms, but it will surely let you play with most established ones, and build prototypes quickly.
+
+
 ## Alternatives to this document
 
 In case you think your profile does not fit mine, you can try one of the alternative point of views:
