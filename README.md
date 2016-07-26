@@ -74,7 +74,7 @@ In the data science trend there's too much focus on data and not enough on scien
 * \[[online documentation](https://www.postgresql.org/docs/9.6/static/index.html)\] **PostgreSQL Documentation** - PostgreSQL comes with tons of great documentation, certainly enough to be able to use this database like a pro.
 
 #### NoSQL
-* \[[mooc](https://university.mongodb.com/courses/M101P/about)\] **_M101P: MongoDB for Developers_ by Andrew Erlichson**
+* \[[mooc](https://university.mongodb.com/courses/M101P/about)\] **_M101P: MongoDB for Developers_ by Andrew Erlichson** - although MongoDB's [manuals](https://docs.mongodb.com/manual/) are really comprehensive, a nice and gentle intro may help you. The M101P videos are a good start. Make sure you listen/read about the [Aggregation Pipeline](https://docs.mongodb.com/manual/core/aggregation-pipeline/) - as a Data Scientist you may be using it heavily.
 
 
 ## Programming
