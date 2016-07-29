@@ -108,6 +108,8 @@ Enough theory. You'll need some tools to apply all that knowledge. I am rather a
 
 #### Data wrangling
 
+* \[[homepage](http://pandas.pydata.org/)\] **_pandas_** - one of the crucial libraries for data wrangling and data analysis in Python. Paired with [numpy](http://www.numpy.org/) and [scipy](http://scipy.org/), the trio builds a strong environment for doing anything you can imagine with your data. And possibly more.
+
 #### Machine learning
 
 * \[[homepage](https://scikit-learn.org)\] **_scikit-learn_** - one of the best machine learning suites for Python. Do yourself a favor and make sure that you do unserstand how [pipelines](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) in scikit-learn work.
@@ -115,7 +117,7 @@ Enough theory. You'll need some tools to apply all that knowledge. I am rather a
 
 #### Deep learning
 
-* \[[homepage](https://http://keras.io/) **_keras_** - a (very) high-level library for building the deep learning models. Under the hood Keras uses Theano or Tensorflow as its engine. It won't let you build your own innovative neural network algorithms, but it will surely let you play with most established ones, and build prototypes quickly.
+* \[[homepage](https://http://keras.io/)\] **_keras_** - a (very) high-level library for building the deep learning models. Under the hood Keras uses Theano or Tensorflow as its engine. It won't let you build your own innovative neural network algorithms, but it will surely let you play with most established ones, and build prototypes quickly.
 
 
 ## Alternatives to this document
