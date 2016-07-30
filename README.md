@@ -106,9 +106,10 @@ Enough theory. You'll need some tools to apply all that knowledge. I am rather a
 * \[[tutorial](https://git-scm.com/book/en/v2)\] **_git_** - you just can't afford not to know git. Even if you're working alone, you iterate, you go back and forth and git is there to remember your steps. Just remember to commit often. Also, take some time and learn how to rebase (including interactive rebase). This job is usually messy, and there's no reason to remember all the dirt once you arrive at the solution. Git, obviously, is even more important if you're collaborating with others. I ensure you, you don't want to be that person who repeatedly breaks the repository due to insufficient command of git.  
 * \[[homepage](https://www.docker.com/)\] **_docker_** - at some point in time you will want to share your models with someone else and it won't work on other machines due to dependencies and some unspecified traits of your environment. You can make your (and others) life easier by using containerization, that is: creating a well defined, easily reproducible environment for your software.
 
-#### Data wrangling
+#### Data wrangling and analysis
 
 * \[[homepage](http://pandas.pydata.org/)\] **_pandas_** - one of the crucial libraries for data wrangling and data analysis in Python. Paired with [numpy](http://www.numpy.org/) and [scipy](http://scipy.org/), the trio builds a strong environment for doing anything you can imagine with your data. And possibly more.
+* \[[homepage](http://matplotlib.org/)\] **_matplotlib_** - a very powerful (and thus quite complex) plotting library for Python. Due to its complexity, a number of wrapping libraries were created. Among them, the [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/) library comes as one of the nicest ones.
 
 #### Machine learning
 
