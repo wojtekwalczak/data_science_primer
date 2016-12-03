@@ -115,6 +115,10 @@ Enough theory. You'll need some tools to apply all that knowledge. I am rather a
 
 * \[[homepage](https://scikit-learn.org)\] **_scikit-learn_** - one of the best machine learning suites for Python. Do yourself a favor and make sure that you do unserstand how [pipelines](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) in scikit-learn work.
 
+#### Natural language processing
+
+* \[[homepage](http://www.nltk.org/)\] **_nltk_** - the most comprehensive Python toolkit for playing with human language data. Make sure you won't miss the [_NLTK Book_](http://www.nltk.org/book/).
+* \[[homepage](https://radimrehurek.com/gensim/)\] **_gensim_** - a nice tool for playing with word embeddings (among other things that it offers).
 
 #### Deep learning
 
