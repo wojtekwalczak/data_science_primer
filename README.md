@@ -21,8 +21,9 @@ We start with mathematics, although some of the materials listed later on don't 
 * \[[book](http://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441)\] **_Linear Algebra: Step by Step_ by Kuldeep Singh** - There are tons of linear algebra books out there but most of them aren't really helpful for people without proper maths/technical background. Kuldeep Singh's book is light enough to get you started, although I strongly advice reading it along with Norman Wildberger's lectures listed below. These two sources will give enough linear algebra skills, unless your aim is to invent some ground breaking calculations. One of the neat feats of this book is [an official on-line repository of full solutions](http://global.oup.com/booksites/content/9780199654444/studentsolutions/) and brief solutions at the end of the book.
 * \[[youtube](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)\] **_WildLinAlg: A geometric course in Linear Algebra_ by Norman J. Wildberger** - I really appreciate the strong geometric focus in Norman Wildberger's lectures. It really helps in grasping the concepts. Also, you should be informed that Norman Wildberger's aim isn't to offer you yet another classical linear algebra course. There's a lot of personal touch in these materials. And I doubt that's a flaw.
 
-#### Statistics
+#### Probability & Statistics
 
+* \[[book](https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678)\] **_Probability: For the Enthusiastic Beginner_ by David J. Morin**
 * \[[book](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728)\] **_Statistics_ by David Freedman, Robert Pisani and Roger Purves**
 * \[[book](http://shop.oreilly.com/product/0636920023074.do)\] **_Statistics in a Nutshell: Desktop Quick Reference_ by Sarah Boslaugh** - this book won't teach you the underlying math behind statistics, but will tell you enough to know how to _use_ statistics. This book is exactly what it states in the title: a good reference.
 
