@@ -23,7 +23,7 @@ We start with mathematics, although some of the materials listed later on don't 
 
 #### Probability & Statistics
 
-* \[[book](https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678)\] **_Probability: For the Enthusiastic Beginner_ by David J. Morin**
+* \[[book](https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin/dp/1523318678)\] **_Probability: For the Enthusiastic Beginner_ by David J. Morin** - a really nice introduction to probability theory. This book excels in the way problems and solutions are covered. There are dozens of problems with fully worked out solutions. Often, the discussion covers the problem from various angles and thus offers a possiblity to fully understand the task at hand. 
 * \[[book](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728)\] **_Statistics_ by David Freedman, Robert Pisani and Roger Purves**
 * \[[book](http://shop.oreilly.com/product/0636920023074.do)\] **_Statistics in a Nutshell: Desktop Quick Reference_ by Sarah Boslaugh** - this book won't teach you the underlying math behind statistics, but will tell you enough to know how to _use_ statistics. This book is exactly what it states in the title: a good reference.
 
