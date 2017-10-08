@@ -5,76 +5,15 @@
 
 ## Mathematics
 
-
-#### Calculus
-
-
-#### Linear algebra
+* \[[book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)\] **_Convex Optimization_ by Stephen Boyd and Lieven Vandenberge**.
 
 
-#### Statistics
-
-
-
-## Model thinking
-
-
-
-
-
-
-## Data analysis
-
-#### Data wrangling
-
-
-#### Data mining
-
-
-#### Machine learning
+## Machine learning
 
 * \[[book](http://statweb.stanford.edu/~tibs/ElemStatLearn/)\] **_The Elements of Statistical Learning: Data Mining, Inference, and Prediction_ by Trevor Hastie, Robert Tibshirani, Jerome Friedman** - a compendium of statistical learning techniques. Nice as a reference or an overview, but not necessarily as a source for learning. So many approaches and techniques are described in this book, that out of necessity, their description is very general, very condensed and very mathematical.
 
-#### Neural networks
-
-
-#### Big data
-
-
-#### Network analysis
-
-
-## Databases
-
-#### SQL
-
-#### NoSQL
-
-
 ## Programming
 
-
-#### Algorithms
-
-
-#### Software engineering
-
-
-#### Java
-
-
-#### Python
-
-## Essential tools
-
-
-#### Code management
-
-#### Data wrangling
-
-#### Machine learning
-
-#### Deep learning
 
 ## Alternatives to this document
 
